@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ad59343a-0dd5-44ca-91ec-389a00d188e2</groupId>
-	<artifactId>sample-cicd-github-actions</artifactId>
+	<artifactId>sample-cicd-github</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
-	<name>sample-cicd-github-actions</name>
+	<name>sample-cicd-github</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
